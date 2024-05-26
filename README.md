@@ -18,6 +18,5 @@ Este proyecto es un clon de la página principal de Google, la finalidad fue rep
 - **CSS**: Estilos CSS para replicar el diseño limpio y minimalista de Google:
 
  - Estilos de fuente y color para que coincidan con la apariencia de Google.
- - Diseño responsivo para que la página se vea bien.
 
-Este proyecto me permitió profundizar en el uso de HTML y CSS.
+Proyecto para profundizar en el uso de HTML y CSS.
