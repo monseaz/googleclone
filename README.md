@@ -20,3 +20,4 @@ Este proyecto es un clon de la página principal de Google, la finalidad fue rep
  - Estilos de fuente y color para que coincidan con la apariencia de Google.
 
 Proyecto para profundizar en el uso de HTML y CSS.
+Visualización: https://cdgoogle.netlify.app
